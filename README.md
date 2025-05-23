@@ -1,2 +1,1 @@
-# github-sync-test
-Hello There
+Hello Odoo
