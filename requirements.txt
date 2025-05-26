@@ -1,0 +1,4 @@
+flask
+gitpython
+docker
+python-dotenv
